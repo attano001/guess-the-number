@@ -1,6 +1,6 @@
 'use strict';
 
-let max = 5;
+let max = 20;
 let min = 1;
 let score = 20;
 let highScore = 0;
